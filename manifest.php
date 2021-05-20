@@ -16,9 +16,6 @@
  *
  * Copyright (c) 2021 (original work) Open Assessment Technologies SA (under the project TAO-PRODUCT);
  */
-/**
- * Generated using taoDevTools 8.1.1.0
- */
 
 /**
  * Generated using taoDevTools 8.1.1.0
